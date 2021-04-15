@@ -5,6 +5,7 @@ int goo()
 {
 
         printf("goo\n");
+	printf("I'm goo\n");
 
 	return 0;
 }
